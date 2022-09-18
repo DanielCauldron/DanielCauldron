@@ -1,4 +1,5 @@
-<center> Hello! I'm Daniel Caldeirão👋</center>
+ ## Hello! I'm Daniel Caldeirão👋
+ 
 
 - 🔭 I’m currently working on Barberia Don Caldeirão
 - 🌱 I’m currently learning  JavaScript e python
@@ -23,7 +24,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
 </div>
-  CONTACTS
+  Contacts
    
 <div>
   <a href="https://www.linkedin.com/in/daniel-caldeir%C3%A3o-43b01b244/">
