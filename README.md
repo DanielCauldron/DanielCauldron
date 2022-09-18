@@ -23,7 +23,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
 </div>
- ### Contacts
+ # Contacts
 
 <div>
   <a href="https://www.linkedin.com/in/daniel-caldeir%C3%A3o-43b01b244/">
