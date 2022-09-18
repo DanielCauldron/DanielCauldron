@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/daniel-caldeir%C3%A3o-43b01b244/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href = "dfcaldeirao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href = " mailto = dfcaldeirao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 
