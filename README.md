@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Daniel Caldeirão👋
 
 - 🔭 I’m currently working on Barberia Don Caldeirão
 - 🌱 I’m currently learning  JavaScript e python
