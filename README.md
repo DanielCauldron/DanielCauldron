@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Barberia Don Caldeirão
 - 🌱 I’m currently learning  JavaScript e python
 
-###my My technologies:
+### My technologies:
 
 <div>
  
