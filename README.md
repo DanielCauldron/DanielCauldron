@@ -1,4 +1,4 @@
-### Hi! I'm Daniel Caldeirão👋
+### Hello! I'm Daniel Caldeirão👋
 
 - 🔭 I’m currently working on Barberia Don Caldeirão
 - 🌱 I’m currently learning  JavaScript e python
@@ -11,12 +11,11 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCauldron&layout=compact&langs_count=7&theme=dark"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-  
 </div>
-  
+  ##
 </div>
 
-###
+##
 
 
 <div>
