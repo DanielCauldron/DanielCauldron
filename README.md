@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Barberia don Caldeirão
+- 🔭 I’m currently working on ...Barberia Don Caldeirão
 - 🌱 I’m currently learning  JavaScript e python
 -->
