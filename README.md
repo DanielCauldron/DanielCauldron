@@ -11,7 +11,7 @@
   <a href="https://github.com/
 DanielCauldron">
 
-  ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)
+  ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent&height=200&width=400)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=donut&show_icons=true&theme=transparent)
 
 
