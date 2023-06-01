@@ -10,10 +10,9 @@
 <div>
   <a href="https://github.com/
 DanielCauldron">
-<tr>
-  <td>![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)</td>
-   <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=donut,Danielcauldron&show_icons=true&theme=transparent)</td>
-</tr>
+
+  ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)
+   <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=donut,Danielcauldron&show_icons=true&theme=transparent)
    
  </a>
 </div>
