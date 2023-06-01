@@ -12,10 +12,10 @@ DanielCauldron">
 <div "display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
   ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=donut&show_icons=true&theme=transparent)
-
+</div>
  </a>
 </div>
-</div>
+
 ##
 
 
