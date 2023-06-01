@@ -1,6 +1,7 @@
  ## Hello! I'm Daniel Caldeirão👋
  
-Estou cursando arquitetura de dados em um curso superior. Tenho conhecimentos em HTML, CSS, JavaScript, Git e GitHub, Python e SQL.Estou constantemente buscando aprimorar meu conhecimento  e habilidades para acompanhar o ritmo acelerado do mundo 🌍 da tecnologia. 
+Busco constantemente aprimorar meu conhecimento e habilidades para acompanhar o ritmo acelerado do mundo 🌍 da tecnologia.
+"A busca pelo conhecimento é a estrada que nos leva ao crescimento pessoal e à compreensão do mundo." 
 
 ##
 
