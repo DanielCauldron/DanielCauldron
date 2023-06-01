@@ -7,7 +7,7 @@
 
 ### My Stats
 
-<div width = "300px" align = "center">
+<div width = "300px" >
   <a href="https://github.com/
 DanielCauldron">
 
