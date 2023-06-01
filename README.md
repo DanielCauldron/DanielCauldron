@@ -11,7 +11,7 @@ Estou cursando arquitetura de dados em um curso superior. Tenho conhecimentos em
 DanielCauldron">
 <div style="display: flex;">
  <img src="https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent" style="height: 200px; width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=compact&theme=transparent" style="height: 190px; width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=compact&theme=transparent" style="height: 300px; width: 50%;" />
 </div>
  </a>
 </div>
