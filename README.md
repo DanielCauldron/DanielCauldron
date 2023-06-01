@@ -2,7 +2,7 @@
  
 Busco constantemente aprimorar meu conhecimento e habilidades para acompanhar o ritmo acelerado do mundo 🌍 da tecnologia.
 
-"A busca pelo conhecimento é a estrada que nos leva ao crescimento pessoal e à compreensão do mundo." 
+       "A busca pelo conhecimento é a estrada que nos leva ao crescimento pessoal e à compreensão do mundo." 
 
 ##
 
