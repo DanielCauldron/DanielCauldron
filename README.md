@@ -13,6 +13,7 @@ DanielCauldron">
 
 ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&show_icons=true&theme=transparent)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&show_icons=false&&layout=compact"/>
    
  </a>
 </div>
