@@ -7,12 +7,12 @@
 
 ### My Stats
 
-<div align="center">
+<div align="center", height=150em>
   <a href="https://github.com/
 DanielCauldron">
 
-  ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent&height=150em)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=donut&show_icons=true&theme=transparent&height=150em)
+  ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=donut&show_icons=true&theme=transparent)
 
  </a>
 </div>
