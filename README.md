@@ -11,7 +11,7 @@
   <a href="https://github.com/
 DanielCauldron">
 <div style="display:flex;">
-<img src="![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)">
+[Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
