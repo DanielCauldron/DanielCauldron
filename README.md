@@ -6,7 +6,7 @@ Estou cursando arquitetura de dados em um curso superior. Tenho conhecimentos em
 
 ### My Stats
 
-<div align="center",height=50em>
+<div align="center",height="50em">
   <a href="https://github.com/
 DanielCauldron">
 
