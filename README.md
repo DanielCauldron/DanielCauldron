@@ -19,7 +19,7 @@ DanielCauldron">
 ##
 
 
-<div>
+<div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
@@ -29,7 +29,7 @@ DanielCauldron">
 </div>
   Contacts
    
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/daniel-caldeir%C3%A3o-43b01b244/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
