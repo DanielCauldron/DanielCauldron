@@ -7,7 +7,7 @@
 
 ### My Stats
 
-<div style="height: 150px;">
+<div>
   <a href="https://github.com/
 DanielCauldron">
 
