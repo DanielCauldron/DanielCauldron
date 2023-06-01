@@ -12,7 +12,7 @@
 DanielCauldron">
    
 ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
 </div>
