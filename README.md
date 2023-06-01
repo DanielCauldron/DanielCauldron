@@ -6,16 +6,16 @@ Estou cursando arquitetura de dados em um curso superior. Tenho conhecimentos em
 
 ### My Stats
 
-<div style="width: 300px; height: 200px;">
+<div>
   <a href="https://github.com/
 DanielCauldron">
-
+<div "display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
   ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=donut&show_icons=true&theme=transparent)
 
  </a>
 </div>
-
+</div>
 ##
 
 
