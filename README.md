@@ -6,7 +6,7 @@ Estou cursando arquitetura de dados em um curso superior. Tenho conhecimentos em
 
 ### My Stats
 
-<div align="center",height="50em">
+<div height="50em">
   <a href="https://github.com/
 DanielCauldron">
 
@@ -19,7 +19,7 @@ DanielCauldron">
 ##
 
 
-<div align="center">
+<div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
