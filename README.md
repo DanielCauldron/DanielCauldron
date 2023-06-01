@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/
 DanielCauldron">
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+   
   <img height="150em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
