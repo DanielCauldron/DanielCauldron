@@ -1,8 +1,7 @@
  ## Hello! I'm Daniel Caldeirão👋
  
+Estou cursando arquitetura de dados em um curso superior. Tenho conhecimentos em HTML, CSS, JavaScript, Git e GitHub, Python e SQL. Estou ansioso para aplicar essas habilidades em projetos futuros e continuar aprendendo mais sobre o mundo da programação e análise de dados. 
 
-- 🔭 I’m currently working on Barberia Don Caldeirão
-- 🌱 I’m currently learning  JavaScript e python
 ##
 
 ### My Stats
