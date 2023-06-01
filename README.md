@@ -10,7 +10,8 @@
 <div>
   <a href="https://github.com/
 DanielCauldron">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  <img height="150em" src="https://github-readme-stats.vercel.app/username=Danielcauldron&show_icons=true&theme=transparent"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
