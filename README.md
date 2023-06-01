@@ -6,7 +6,7 @@ Estou cursando arquitetura de dados em um curso superior. Tenho conhecimentos em
 
 ### My Stats
 
-<div height="50em">
+<div style="width: 300px; height: 200px;">
   <a href="https://github.com/
 DanielCauldron">
 
@@ -29,7 +29,7 @@ DanielCauldron">
 </div>
   Contacts
    
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/daniel-caldeir%C3%A3o-43b01b244/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
