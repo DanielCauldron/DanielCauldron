@@ -12,7 +12,8 @@
 DanielCauldron">
    
 ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact")
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 </div>
 
