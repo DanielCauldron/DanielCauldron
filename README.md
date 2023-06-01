@@ -12,8 +12,7 @@
 DanielCauldron">
    
 ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent)
-   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </div>
 
