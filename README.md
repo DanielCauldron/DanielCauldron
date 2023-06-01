@@ -12,7 +12,7 @@
 DanielCauldron">
 
   ![Danielcauldron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&bg_color=00000000)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=donut_color=00000000)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=donut)
 
    
  </a>
