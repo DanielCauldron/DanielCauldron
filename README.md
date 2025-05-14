@@ -1,6 +1,11 @@
  ## Hello! I'm Daniel Caldeirão👋
- 
-Busco constantemente aprimorar meu conhecimento e habilidades para acompanhar o ritmo acelerado do mundo 🌍 da tecnologia.
+
+---
+
+"Venho da linha de frente do suporte técnico e estou evoluindo para projetar estruturas que tratam dados com a mesma agilidade com que resolvo problemas. Aqui compartilho minha jornada em Arquitetura de Dados com projetos práticos, código limpo e soluções que fazem sentido."
+
+
+---
 
        "A busca pelo conhecimento é a estrada que nos leva ao crescimento pessoal e à compreensão do mundo." 
 
