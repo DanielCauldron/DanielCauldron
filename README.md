@@ -3,6 +3,7 @@
 ---
 
 "Venho da linha de frente do suporte técnico e estou evoluindo para projetar estruturas que tratam dados com a mesma agilidade com que resolvo problemas.Aqui compartilho minha jornada em Arquitetura de Dados com projetos práticos,código limpo e soluções que fazem sentido."
+
 Projeto de estudo portfólio Daniel Caldeirão 
 [Clique aqui](https://danielcauldron.github.io/).
 
