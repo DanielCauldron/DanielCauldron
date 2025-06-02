@@ -29,8 +29,8 @@ DanielCauldron">
 
 
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+ <img src="https://www.gstatic.com/devrel-devsite/prod/v9e3a008c1e1b96b50ff3e53a35b508972beae3c79cfab8390a7b57cbf8fbb0de/cloud/images/favicons/onecloud/super_cloud.png" width="50" title="BigQuery via Google Cloud"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
