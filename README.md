@@ -29,8 +29,8 @@ DanielCauldron">
 
 
 <div>
- <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="50" title="SQL / Banco de Dados"/>
- <img src="https://www.gstatic.com/devrel-devsite/prod/v9e3a008c1e1b96b50ff3e53a35b508972beae3c79cfab8390a7b57cbf8fbb0de/cloud/images/favicons/onecloud/super_cloud.png" width="50" title="BigQuery"/>
+ <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50" title="SQL / Banco de Dados"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_BigQuery_Logo.svg" width="50" title="BigQuery"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" title="Power BI"/>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
