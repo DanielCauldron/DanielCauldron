@@ -1,16 +1,24 @@
- ## Hello! I'm Daniel Caldeirão👋
+ ## 👋 Hello! I'm Daniel Caldeirão
 
 ---
 
-"Venho da linha de frente do suporte técnico e estou evoluindo para projetar estruturas que tratam dados com a mesma agilidade com que resolvo problemas.Aqui compartilho minha jornada em Arquitetura de Dados com projetos práticos,código limpo e soluções que fazem sentido."
+🎯 **De Suporte Técnico à Engenharia de Dados**  
+Minha jornada começou na linha de frente do suporte técnico, onde aprendi a resolver problemas com agilidade, empatia e foco em soluções práticas. Hoje, aplico esses aprendizados na construção de pipelines e estruturas de dados que sustentam decisões estratégicas.
 
-Projeto de estudo portfólio Daniel Caldeirão 
-[Clique aqui](https://danielcauldron.github.io/).
+📍 Este espaço é um reflexo da minha transição e crescimento como profissional de **Arquitetura e Engenharia de Dados**, com foco em:
+
+- Projetos práticos com dados reais  
+- Código limpo, automatizações e boas práticas  
+- Soluções com propósito e aplicabilidade no mercado  
+
+📂 **Portfólio online:**  
+🔗 [Clique aqui para acessar](https://danielcauldron.github.io/)
 
 ---
 
-       "A busca pelo conhecimento é a estrada que nos leva ao crescimento pessoal e à compreensão do mundo." 
+🧠 *"A busca pelo conhecimento é a estrada que nos leva ao crescimento pessoal e à compreensão do mundo."*
 
+---
 ##
 
 ### My Stats
@@ -20,7 +28,7 @@ Projeto de estudo portfólio Daniel Caldeirão
 DanielCauldron">
 <div style="display: flex;">
  <img src="https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent" style="height: 200px; width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=compact&theme=transparent" style="height: 200px; width: 39%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=compact&theme=transparent" style="height: 200px; width: 42%;" />
 </div>
  </a>
 </div>
