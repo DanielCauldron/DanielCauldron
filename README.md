@@ -20,7 +20,7 @@ Projeto de estudo portfólio Daniel Caldeirão
 DanielCauldron">
 <div style="display: flex;">
  <img src="https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent" style="height: 200px; width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=compact&theme=transparent" style="height: 200px; width: 37%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=compact&theme=transparent" style="height: 200px; width: 39%;" />
 </div>
  </a>
 </div>
