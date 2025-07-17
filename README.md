@@ -15,11 +15,14 @@ Projeto de estudo portfólio Daniel Caldeirão
 
 ### My Stats
 
-<div align="center">
-  <a href="https://github.com/DanielCauldron" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=compact&theme=transparent" height="180" />
-  </a>
+<div>
+  <a href="https://github.com/
+DanielCauldron">
+<div style="display: flex;">
+ <img src="https://github-readme-stats.vercel.app/api?username=Danielcauldron&show_icons=true&theme=transparent" style="height: 200px; width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcauldron&layout=compact&theme=transparent" style="height: 200px; width: 37%;" />
+</div>
+ </a>
 </div>
 
 ##
