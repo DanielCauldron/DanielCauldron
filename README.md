@@ -1,25 +1,62 @@
- ## 👋 Hello! I'm Daniel Caldeirão
+## 👋 Hello! I'm Daniel Caldeirão
+
+🎯 **De Suporte Técnico à Engenharia de Dados**
+
+Minha jornada começou na linha de frente do suporte técnico, onde desenvolvi habilidades como resolução de problemas, empatia no atendimento e agilidade em situações críticas. Hoje, aplico esses aprendizados na construção de **pipelines de dados, automações e soluções que impactam o negócio**.
 
 ---
 
-🎯 **De Suporte Técnico à Engenharia de Dados**  
-Minha jornada começou na linha de frente do suporte técnico, onde aprendi a resolver problemas com agilidade, empatia e foco em soluções práticas. Hoje, aplico esses aprendizados na construção de pipelines e estruturas de dados que sustentam decisões estratégicas.
+📍 **Sobre este espaço**
 
-📍 Este espaço é um reflexo da minha transição e crescimento como profissional de **Arquitetura e Engenharia de Dados**, com foco em:
+Este repositório é o reflexo da minha transição e crescimento como profissional de **Arquitetura e Engenharia de Dados**, com foco em:
 
-- Projetos práticos com dados reais  
-- Código limpo, automatizações e boas práticas  
-- Soluções com propósito e aplicabilidade no mercado  
-
-📂 **Portfólio online:**  
-🔗 [Clique aqui para acessar](https://danielcauldron.github.io/)
+✅ Projetos práticos com dados reais  
+✅ Código limpo, reutilizável e com boas práticas  
+✅ Pipelines ETL automatizados com Python  
+✅ Visualizações com Power BI  
+✅ Uso de dados públicos, APIs e bancos de dados
 
 ---
 
-🧠 *"A busca pelo conhecimento é a estrada que nos leva ao crescimento pessoal e à compreensão do mundo."*
+🚀 **Projetos em Destaque**
+
+🔹 [Laboratório de Engenharia de Dados](https://github.com/DanielCauldron/lab_engenharia_dados)  
+Simulação prática de ingestão, transformação e carga de dados, com foco em aprendizado de pipelines reais.
+
+🔹 [ETL ViaCEP API](https://github.com/DanielCauldron/via_cep_etl_project)  
+Extração de dados de CEPs via API REST, transformação com pandas e exportação para CSV.
+
+🔹 [Empregos Formais no Brasil - CAGED](https://github.com/DanielCauldron/Projeto-Pipeline-de-Empregos-Formais-no-Brasil-CAGED-)  
+Projeto de pipeline completo com dados públicos de emprego, prontos para análise e visualização.
+
+🔹 [Análise de Dados Titanic](https://github.com/DanielCauldron/Projeto-Titanic)  
+Limpeza, análise exploratória e visualização com pandas — estudo clássico refeito com boas práticas.
 
 ---
-##
+
+📂 **Portfólio Web**
+
+🔗 [Clique aqui para acessar meu portfólio online](https://danielcauldron.github.io)
+
+---
+
+🛠️ **Stack principal**
+
+- Python • Pandas • SQL
+- PostgreSQL • BigQuery
+- API REST • Web Scraping
+- Git • Linux • VSCode
+- Power BI • Jupyter Notebook
+
+---
+
+📈 **Minha missão**
+
+> _"Transformar dados em decisões é mais do que técnica — é propósito."_  
+> — Daniel Caldeirão
+
+---
+👨‍💻 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos ou entrar em contato para colaborar 🚀
 
 ### My Stats
 
