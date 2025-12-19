@@ -1,52 +1,27 @@
 ## 👋 Olá! Sou o Daniel Caldeirão
 
-### 🎓 Formado em Arquitetura de Dados | 💼 Suporte Técnico Nível 1 (em transição para Engenharia de Dados)
+🎓 Formado em Arquitetura de Dados
+💼 Suporte Técnico Nível 1 | Em transição para Engenharia de Dados
 
-Minha carreira começou no suporte técnico, onde desenvolvi bases importantes: diagnóstico rápido, comunicação clara, resolução de problemas e visão de usuário.
-Hoje, aplico essa experiência na construção de pipelines de dados, automações e processos que tornam informações acessíveis e úteis para o negócio.
-Atualmente, estou focado em consolidar minha atuação como Engenheiro de Dados Júnior, combinando teoria e prática em projetos reais.
+Atuo no ciclo de dados com foco em organização, qualidade e uso prático da informação para decisão.
+Minha base em suporte técnico fortalece minha atuação com análise, comunicação clara e resolução de problemas reais.
 
+## 🔎 Perfil Profissional
 
-## 📌 Sobre o que você vai encontrar aqui ##
+Analista de Dados / BI Júnior | Power BI • SQL • ETL
 
+## 🛠️ Principais Competências
 
-Este GitHub documenta minha evolução e prática na área de Dados, com foco em:
+Power BI: criação de dashboards e indicadores para apoio à tomada de decisão
 
-Pipelines ETL utilizando Python e bancos de dados
+DAX: desenvolvimento de métricas e KPIs analíticos
 
-Automação e processamento de dados (batch e incremental)
+SQL: consultas e análise de dados
 
-Organização e versionamento de código
+Power Query: tratamento e transformação de dados
 
-Visualizações e análises com Power BI
+ETL: extração, transformação e carga de dados para análise
 
-Uso de dados públicos, APIs e formatos diversos (CSV, XLSX, JSON, SQL)
+## 🎯 Objetivo Atual
 
-Sempre buscando clareza, boas práticas, documentação, e valor real.
-
-
-## 🚀 Projetos em Destaque
-Projeto	Descrição	Link
-Laboratório de Engenharia de Dados	Simulação de ingestão, transformação e carga com pipelines reais e versionamento organizado.
-
-https://github.com/DanielCauldron/lab_engenharia_dados
-
-ETL ViaCEP API	Coleta de dados via API REST, tratamento com pandas e exportação para dataset pronto para análise.
-
-https://github.com/DanielCauldron/via_cep_etl_project
-
-Empregos Formais no Brasil - CAGED	Pipeline completo com dados públicos, automação, armazenamento e entrega final para BI.	
-
-https://github.com/DanielCauldron/Projeto-Pipeline-de-Empregos-Formais-no-Brasil-CAGED-
-
-Análise Titanic	Limpeza, análise exploratória e visualização de dados com boas práticas.	
-
-https://github.com/DanielCauldron/Projeto-Titanic
-
-## 🛠️ Tecnologias que utilizo
-
-Python • SQL • pandas • Power BI • Git/GitHub • Linux • APIs • ETL
-
-## 🌱 Objetivo Atual
-
-Fortalecer minha atuação como Engenheiro de Dados Júnior, contribuindo em pipelines, automação, modelagem, e melhoria de processos que apoiem decisões estratégicas.
+Atuar como analista de Dados Júnior, contribuindo com pipelines, automações, modelagem de dados e melhoria contínua de processos analíticos.
