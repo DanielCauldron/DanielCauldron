@@ -3,12 +3,12 @@
 🎓 Formado em Arquitetura de Dados
 💼 Suporte Técnico Nível 1 | Em transição para Analista de Dados
 
-Atuo no ciclo de dados com foco em organização, qualidade e uso prático da informação para decisão.
+Atuo no ciclo de dados com foco em organização, qualidade e uso prático da informação para tomada de decisão.
 Minha base em suporte técnico fortalece minha atuação com análise, comunicação clara e resolução de problemas reais.
 
 ## 🔎 Perfil Profissional
 
-Analista de Dados / BI Júnior | Power BI • SQL • ETL
+Analista de Dados Júnior / BI Júnior | Power BI • SQL • ETL
 
 ## 🛠️ Principais Competências
 
@@ -24,4 +24,4 @@ ETL: extração, transformação e carga de dados para análise
 
 ## 🎯 Objetivo Atual
 
-Atuar como analista de Dados Júnior, contribuindo com pipelines, automações, modelagem de dados e melhoria contínua de processos analíticos.
+Atuar como Analista de Dados Júnior, contribuindo com pipelines, automações, modelagem de dados e melhoria contínua de processos analíticos.
