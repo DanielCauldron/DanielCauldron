@@ -1,7 +1,7 @@
 ## 👋 Olá! Sou o Daniel Caldeirão
 
 🎓 Formado em Arquitetura de Dados
-💼 Suporte Técnico Nível 1 | Em transição para Engenharia de Dados
+💼 Suporte Técnico Nível 1 | Em transição para Analista de Dados
 
 Atuo no ciclo de dados com foco em organização, qualidade e uso prático da informação para decisão.
 Minha base em suporte técnico fortalece minha atuação com análise, comunicação clara e resolução de problemas reais.
