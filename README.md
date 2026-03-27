@@ -1,27 +1,55 @@
-## 👋 Olá! Sou o Daniel Caldeirão
+# Daniel Caldeirão
 
-🎓 Formado em Arquitetura de Dados
-💼 Suporte Técnico Nível 1 | Em transição para Analista de Dados
+**Analista de Dados Júnior | Power BI | SQL**
 
-Atuo no ciclo de dados com foco em organização, qualidade e uso prático da informação para tomada de decisão.
-Minha base em suporte técnico fortalece minha atuação com análise, comunicação clara e resolução de problemas reais.
+Transformo dados em insights para apoiar decisões de negócio.
 
-## 🔎 Perfil Profissional
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-cauldron/)
+🔗 [GitHub](https://github.com/DanielCauldron)
 
-Analista de Dados Júnior / BI Júnior | Power BI • SQL • ETL
+---
 
-## 🛠️ Principais Competências
+## 👋 Sobre mim
 
-Power BI: criação de dashboards e indicadores para apoio à tomada de decisão
+Analista de Dados em início de carreira com experiência prática em **Power BI, SQL e ETL**.
+Atuo na criação de dashboards, tratamento de dados e geração de insights para tomada de decisão.
 
-DAX: desenvolvimento de métricas e KPIs analíticos
+Minha base em suporte técnico fortalece minha capacidade de **resolver problemas reais, organizar dados e comunicar resultados com clareza**.
 
-SQL: consultas e análise de dados
+---
 
-Power Query: tratamento e transformação de dados
+## 🛠️ Habilidades
 
-ETL: extração, transformação e carga de dados para análise
+* **Power BI** (Dashboards, KPIs, Modelagem)
+* **DAX** (Métricas e indicadores)
+* **SQL** (Consultas e análise)
+* **Power Query** (Transformação de dados)
+* **ETL** (Processos de dados)
 
-## 🎯 Objetivo Atual
+---
 
-Atuar como Analista de Dados Júnior, contribuindo com pipelines, automações, modelagem de dados e melhoria contínua de processos analíticos.
+## 📊 Projetos em Destaque
+
+### 📉 Análise de Churn
+
+* Tratamento e limpeza de dados nulos
+* Modelagem de dados para análise
+* Geração de insights sobre cancelamento de clientes
+
+🔗 [Ver projeto](https://github.com/DanielCauldron/Data-Quality-Analysis-Understanding-NULL-Values)
+
+---
+
+### 📈 Dashboard de Vendas
+
+* Análise de faturamento e desempenho comercial
+* Criação de KPIs estratégicos
+* Visualização de dados para apoio à decisão
+
+🔗 (adicione o link)
+
+---
+
+## 🎯 Objetivo
+
+Atuar como Analista de Dados Júnior, contribuindo com análise de dados, dashboards e melhoria de processos baseados em dados.
