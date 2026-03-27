@@ -46,7 +46,7 @@ Minha base em suporte técnico fortalece minha capacidade de **resolver problema
 * Criação de KPIs estratégicos
 * Visualização de dados para apoio à decisão
 
-🔗 (https://github.com/DanielCauldron/Dashboard-Cafeteria-Power-BI-)
+🔗 [Ver projeto](https://github.com/DanielCauldron/Dashboard-Cafeteria-Power-BI-)
 
 ---
 
