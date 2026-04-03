@@ -42,11 +42,12 @@ Minha base em suporte técnico fortalece minha capacidade de **resolver problema
 
 ---
 
-### 📈 Dashboard de Vendas
+### 📈 Dashboard de Análise de Vendas — Cafeteria (Power BI)
 
-* Análise de faturamento e desempenho comercial
-* Criação de KPIs estratégicos
-* Visualização de dados para apoio à decisão
+* Análise do desempenho de vendas ao longo do tempo
+* Criação de KPIs (receita, ticket médio e volume de vendas)
+* Identificação de padrões de consumo e produtos estratégicos
+* Desenvolvimento de dashboard para apoio à tomada de decisão
 
 🔗 [Ver projeto](https://github.com/DanielCauldron/Dashboard-Cafeteria-Power-BI-)
 
