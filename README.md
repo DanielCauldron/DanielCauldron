@@ -26,7 +26,7 @@ Minha base em suporte técnico fortalece minha capacidade de **resolver problema
 ## 🛠️ Habilidades
 
 * **Power BI** (Dashboards e visualização de dados)
-* **DAX** (Métricas e indicadores)
+* **DAX** (Criação de métricas e KPIs)
 * **SQL** (Consultas e análise de dados)
 ---
 
@@ -50,6 +50,8 @@ Minha base em suporte técnico fortalece minha capacidade de **resolver problema
 * Desenvolvimento de dashboard para apoio à tomada de decisão
 
 🔗 [Ver projeto](https://github.com/DanielCauldron/Dashboard-Cafeteria-Power-BI-)
+
+📌 Projetos desenvolvidos com base em cenários reais de negócio.
 
 ---
 
