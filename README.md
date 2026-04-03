@@ -2,9 +2,9 @@
 
 **Analista de Dados Júnior | Power BI | SQL**
 
-Analista de Dados em transição de carreira com foco em Power BI e SQL.
+Analista de Dados em desenvolvimento com foco em transformar dados em insights estratégicos para tomada de decisão.
 
-Experiência prática em análise de churn e desempenho comercial, desenvolvendo dashboards e identificando padrões de comportamento de clientes para apoiar tomada de decisão.
+Experiência prática com análise exploratória, tratamento de dados e construção de dashboards no Power BI, buscando identificar padrões, oportunidades e gerar valor para o negócio.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-cauldron/)
 🔗 [GitHub](https://github.com/DanielCauldron)
@@ -57,4 +57,4 @@ Minha base em suporte técnico fortalece minha capacidade de **resolver problema
 
 ## 🎯 Objetivo
 
-Atuar como Analista de Dados Júnior, aplicando análise de dados e visualização para gerar insights que apoiem decisões de negócio.
+Atuar como Analista de Dados Júnior, aplicando análise de dados, visualização e interpretação para gerar insights que apoiem decisões estratégicas.
