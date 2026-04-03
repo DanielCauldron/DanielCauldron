@@ -2,7 +2,9 @@
 
 **Analista de Dados Júnior | Power BI | SQL**
 
-Transformo dados em insights para apoiar decisões de negócio.
+Analista de Dados em transição de carreira com foco em Power BI e SQL.
+
+Experiência prática em análise de churn e desempenho comercial, desenvolvendo dashboards e identificando padrões de comportamento de clientes para apoiar tomada de decisão.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-cauldron/)
 🔗 [GitHub](https://github.com/DanielCauldron)
@@ -11,8 +13,11 @@ Transformo dados em insights para apoiar decisões de negócio.
 
 ## 👋 Sobre mim
 
-Analista de Dados em início de carreira com experiência prática em **Power BI, SQL e ETL**.
-Atuo na criação de dashboards, tratamento de dados e geração de insights para tomada de decisão.
+Profissional em transição para a área de dados, com experiência prática no desenvolvimento de dashboards em Power BI e análise de dados com SQL.
+
+Tenho foco em entender o comportamento dos dados, identificar padrões e gerar insights que possam apoiar decisões de negócio.
+
+Já desenvolvi projetos voltados para análise de churn e desempenho de vendas, aplicando conceitos de modelagem de dados e criação de métricas (KPIs).
 
 Minha base em suporte técnico fortalece minha capacidade de **resolver problemas reais, organizar dados e comunicar resultados com clareza**.
 
@@ -20,21 +25,18 @@ Minha base em suporte técnico fortalece minha capacidade de **resolver problema
 
 ## 🛠️ Habilidades
 
-* **Power BI** (Dashboards, KPIs, Modelagem)
+* **Power BI** (Dashboards e visualização de dados)
 * **DAX** (Métricas e indicadores)
-* **SQL** (Consultas e análise)
-* **Power Query** (Transformação de dados)
-* **ETL** (Processos de dados)
-
+* **SQL** (Consultas e análise de dados)
 ---
 
 ## 📊 Projetos em Destaque
 
-### 📉 Análise de Churn
+### 📉 Análise de Qualidade de Dados — Valores Nulos (NULL)
 
-* Tratamento e limpeza de dados nulos
-* Modelagem de dados para análise
-* Geração de insights sobre cancelamento de clientes
+* Identificação de colunas com valores nulos
+* Avaliação da frequência de dados ausentes
+* Análise do impacto dos NULLs na interpretação dos dados
 
 🔗 [Ver projeto](https://github.com/DanielCauldron/Data-Quality-Analysis-Understanding-NULL-Values)
 
@@ -52,4 +54,4 @@ Minha base em suporte técnico fortalece minha capacidade de **resolver problema
 
 ## 🎯 Objetivo
 
-Atuar como Analista de Dados Júnior, contribuindo com análise de dados, dashboards e melhoria de processos baseados em dados.
+Atuar como Analista de Dados Júnior, aplicando análise de dados e visualização para gerar insights que apoiem decisões de negócio.
