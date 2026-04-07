@@ -23,7 +23,7 @@ Minha base em suporte técnico me deu algo que a maioria ignora: a capacidade de
 
 ## 📊 Projetos em Destaque
 
-### 📈 Dashboard de Análise de Vendas — Cafeteria
+### 📈 Análise-de -Vendas — Cafeteria
 
 Análise completa do desempenho comercial de uma cafeteria ao longo de 2023. Identificação de padrões de consumo, produtos estratégicos e comportamento atípico de vendas em novembro.
 
