@@ -1,60 +1,56 @@
 # Daniel Caldeirão
 
-**Analista de Dados Júnior | Power BI | SQL**
+**Analista de Dados Júnior | Power BI • DAX • SQL**
 
-Analista de Dados em desenvolvimento com foco em transformar dados em insights estratégicos para tomada de decisão.
+Transformo dados bagunçados em informações que geram decisões melhores.
 
-Experiência prática com análise exploratória, tratamento de dados e construção de dashboards no Power BI, buscando identificar padrões, oportunidades e gerar valor para o negócio.
+Tenho foco em entender o negócio antes de abrir qualquer ferramenta — porque dado sem contexto é só número. Trabalho com análise exploratória, qualidade de dados, modelagem e construção de dashboards no Power BI, sempre com o olhar voltado para o impacto no negócio.
+
+Minha base em suporte técnico me deu algo que a maioria ignora: a capacidade de ouvir o problema real antes de propor uma solução.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-cauldron/)
-🔗 [GitHub](https://github.com/DanielCauldron)
-
----
-
-## 👋 Sobre mim
-
-Profissional em transição para a área de dados, com experiência prática no desenvolvimento de dashboards em Power BI e análise de dados com SQL.
-
-Tenho foco em entender o comportamento dos dados, identificar padrões e gerar insights que possam apoiar decisões de negócio.
-
-Já desenvolvi projetos voltados para análise de churn e desempenho de vendas, aplicando conceitos de modelagem de dados e criação de métricas (KPIs).
-
-Minha base em suporte técnico fortalece minha capacidade de **resolver problemas reais, organizar dados e comunicar resultados com clareza**.
 
 ---
 
 ## 🛠️ Habilidades
 
-* **Power BI** (Dashboards e visualização de dados)
-* **DAX** (Criação de métricas e KPIs)
-* **SQL** (Consultas e análise de dados)
+- **Power BI** — Dashboards interativos e storytelling com dados
+- **DAX** — Criação de métricas, KPIs e lógica de negócio
+- **SQL** — Consultas, filtros e análise de dados relacionais
+- **Power Query** — Limpeza e transformação de dados
+
 ---
 
 ## 📊 Projetos em Destaque
 
-### 📉 Análise de Qualidade de Dados — Valores Nulos (NULL)
+### 📈 Dashboard de Análise de Vendas — Cafeteria
 
-* Identificação de colunas com valores nulos
-* Avaliação da frequência de dados ausentes
-* Análise do impacto dos NULLs na interpretação dos dados
+Análise completa do desempenho comercial de uma cafeteria ao longo de 2023. Identificação de padrões de consumo, produtos estratégicos e comportamento atípico de vendas em novembro.
+
+- Receita por produto, ticket médio e evolução temporal
+- Descoberta: ~70% da receita vem do consumo no local
+- Identificação de outlier em novembro, sinalizando evento atípico ou inconsistência nos dados
+
+🔗 [Ver projeto](https://github.com/DanielCauldron/Dashboard-Cafeteria-Power-BI-)
+
+---
+
+### 🔍 Análise de Qualidade de Dados — Valores Nulos (NULL)
+
+Projeto focado em um erro que a maioria trata de forma errada: substituir NULL por zero sem entender o contexto. A análise demonstra que nem todo dado ausente é um problema — e que tratar todos da mesma forma quebra métricas críticas.
+
+- Coluna `TotalCharges` com NULLs em dataset de churn
+- Distingue clientes novos (NULL válido) de inconsistências reais
+- Lógica DAX implementada para tratamento contextual
 
 🔗 [Ver projeto](https://github.com/DanielCauldron/Data-Quality-Analysis-Understanding-NULL-Values)
 
 ---
 
-### 📈 Dashboard de Análise de Vendas — Cafeteria (Power BI)
+## 🎯 Objetivo
 
-* Análise do desempenho de vendas ao longo do tempo
-* Criação de KPIs (receita, ticket médio e volume de vendas)
-* Identificação de padrões de consumo e produtos estratégicos
-* Desenvolvimento de dashboard para apoio à tomada de decisão
-
-🔗 [Ver projeto](https://github.com/DanielCauldron/Dashboard-Cafeteria-Power-BI-)
-
-📌 Projetos desenvolvidos com base em cenários reais de negócio.
+Atuar como Analista de Dados Júnior em um ambiente onde análise de dados gere impacto real — não só relatórios bonitos.
 
 ---
 
-## 🎯 Objetivo
-
-Atuar como Analista de Dados Júnior, aplicando análise de dados, visualização e interpretação para gerar insights que apoiem decisões estratégicas.
+> 📍 Guajará-Mirim, RO
